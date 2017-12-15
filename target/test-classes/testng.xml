@@ -1,0 +1,10 @@
+<suite name="Trigonometry" parallel="tests" thread-count="3">
+    <test name="case1">
+        <classes>
+            <class name="com.epam.TestCos"/>
+            <class name="com.epam.TestSin"/>
+            <class name="com.epam.TestCtg"/>
+            <class name="com.epam.TestTg"/>
+        </classes>
+    </test>
+</suite>
